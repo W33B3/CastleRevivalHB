@@ -1,8 +1,0 @@
-{
-  "optionalfeature": [
-    "Features/Features.json"
-  ],
-  "spell": [
-    "Spells/Spells.json"
-  ]
-}

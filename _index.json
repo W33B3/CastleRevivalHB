@@ -1,0 +1,30 @@
+"_meta": {
+    "sources": [
+      {
+        "json": "CRHB",
+        "abbreviation": "CRHB",
+        "full": "Castle Revival Homebrew",
+        "authors": [
+          "W33B3"
+        ],
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "optionalfeature": [
+    "Features/Features.json"
+  ],
+  "spell": [
+    "Spells/Spells.json"
+  ],
+  "monster": [
+    "Creatures/Bosses.json",
+    "Creatures/Enemies.json",
+    "Creatures/NPC.json"
+  ],
+  "item": [
+    "Items/Magic Weapons.json",
+    "Items/Potions.json",
+    "Items/Weapons.json"
+  ]
+}
