@@ -10,43 +10,5 @@
       }
     ]
   },
-  "item": [
-    {
-	"name": "Test",
-	"level": 19,
-	"school": "T",
-	"time": [
-		{
-			"number": 1,
-			"unit": "action"
-		}
-	],
-	"range": {
-		"type": "point",
-		"distance": {
-			"type": "self"
-		}
-	},
-	"duration": [
-		{
-			"type": "instant"
-		}
-	],
-	"classes": {
-		"fromClassList": [
-			{
-				"name": "Wizard",
-				"source": "XPHB"
-			}
-		]
-	},
-	"entries": [
-		"test test"
-	],
-	"source": "FloatingCastleHB",
-	"damageInflict": [
-		"acid"
-	]
-}
-  ]
+  "item": []
 }
