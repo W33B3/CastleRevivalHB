@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "FloatingCastleHB",
+        "abbreviation": "FCHB",
+        "full": "Floating Castle Homebrew",
+        "authors": ["W33B"],
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "item": []
+}
