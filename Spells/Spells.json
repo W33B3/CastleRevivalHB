@@ -2,13 +2,65 @@
   "_meta": {
     "sources": [
       {
-        "json": "FloatingCastleHB",
-        "abbreviation": "FCHB",
-        "full": "Floating Castle Homebrew",
+        "json": "CastleRevivalHB",
+        "abbreviation": "CRHB",
+        "full": "Castle Revival Homebrew",
         "authors": ["W33B"],
         "version": "1.0.0"
       }
     ]
   },
-  "item": []
+  "item": [
+{
+	"name": "Test Spell",
+	"level": 1,
+	"school": "A",
+	"time": [
+		{
+			"number": 1,
+			"unit": "reaction"
+		}
+	],
+	"range": {
+		"type": "point",
+		"distance": {
+			"type": "self"
+		}
+	},
+	"duration": [
+		{
+			"type": "instant"
+		}
+	],
+	"classes": {
+		"fromClassList": [
+			{
+				"name": "Wizard",
+				"source": "XPHB"
+			}
+		]
+	},
+	"entries": [
+		"Ignore this one, it's a test"
+	],
+	"source": "CastleRevivalHomebrew",
+	"components": {
+		"v": true,
+		"s": true
+	},
+	"feats": [
+		{
+			"name": "Magic Initiate",
+			"source": "PHB"
+		},
+		{
+			"name": "Magic Initiate",
+			"source": "XPHB"
+		}
+	],
+	"abilityCheck": [
+		"wisdom"
+	]
+}
+]
 }
