@@ -1,4 +1,17 @@
 {
+  "monster": [
+    "Creatures/NPC.json",
+    "Creatures/Enemies.json",
+    "Creatures/Bosses.json"
+  ],
+  "item": [
+    "Items/Weapons.json",
+    "Items/Magic Weapons.json",
+    "Items/Potions.json"
+  ],
+  "optionalfeature": [
+    "Features/Features.json"
+  ],
   "spell": [
     "Spells/Spells.json"
   ]
